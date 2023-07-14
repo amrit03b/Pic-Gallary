@@ -1,5 +1,5 @@
 body{
-    background-image: url("pics/pic (1).jpg");
+    background-image: url("pics/back.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
@@ -20,8 +20,8 @@ h1{
 }
 
 img{
-    height: 400px;;
-    width: 400px;;
+    height: 350px;;
+    width: 350px;;
     margin: 10px;
     transition: all 1s;
 }
